@@ -1,0 +1,1 @@
+/home/meetstudent/Desktop/y2s18-databases/exercises/knowledge_model.py
